@@ -1,0 +1,2 @@
+# exercises
+Courses quick exercises.
