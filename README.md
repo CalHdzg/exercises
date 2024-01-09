@@ -1,2 +1,2 @@
-# exercises
+# Exercises
 Courses quick exercises.
